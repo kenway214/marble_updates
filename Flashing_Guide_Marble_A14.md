@@ -6,7 +6,7 @@
 - Use TWRP recovery meant for Android 14. Check link in my channel [**#twrp_a14**](https://t.me/kenway_playground/68)
 - To retain TWRP recovery after rom flash, don't forget to tick the option "Automatically Reflash TWRP after flashing a rom" in recovery. Else TWRP will be replaced by recovery from rom
 - For Kernel SU check note in my channel [**#ksu_a14**](https://t.me/kenway_playground/69)
-- For vanilla variant, if u need gapps, [**Nikgapps is Recommended**](https://sourceforge.net/projects/nikgapps/files/Releases/NikGapps-U/)
+- For vanilla variant, if u need gapps, [**Nikgapps is Recommended**](https://sourceforge.net/projects/nikgapps/files/Releases/Android-14/)
 
 ----
 
